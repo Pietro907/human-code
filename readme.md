@@ -1,7 +1,9 @@
-// 10. Attraversare la strada
-// Look left / look right
+## 10. Attraversare la strada
+ Look left / look right
 <!-- Semafori, rotonde e precedenze… al test per la patente, la domanda sugli incroci manda sempre un po’ in confusione! Per stavolta ci concentriamo solamente sugli step da fare per attraversare la strada, sapendo che ogni passo deve essere ben misurato altrimenti potrebbe costarci caro!
  -->
+
+Contesto: Sono appena uscito dalla stazione del treno e devo andare in ufficio. Per arrivarci devo attraversare una strada statale.
 
 Guardo davanti a me e girando la testa da destra verso sinistra
     - controllo se ci sono una serie di oggetti ['semaforo','semaforo-pedonale','incroci','rotonde','corsie']
